@@ -1,0 +1,177 @@
+Quem foi o campeão da Copa do Mundo de 1950?:Uruguai
+Qual país venceu a Eurocopa de 2004?:Grécia
+Qual jogador é conhecido como 'El Matador'?:Edinson Cavani,Cavani
+Qual clube venceu a Serie A em 2021?:Inter de Milão,Inter
+Quem é o maior artilheiro da história da Copa do Mundo de Clubes?:Cristiano Ronaldo,CR7,Cr7
+Qual país venceu a Copa do Mundo de 1970?:Brasil
+Quem foi o campeão da Liga Europa em 2020?:Sevilla
+Qual jogador ganhou a Chuteira de Ouro em 2020?:Ciro Immobile,Immobile
+Qual país venceu a Copa do Mundo de 1986?:Argentina
+Qual jogador é conhecido como 'El Apache'?:Carlos Tevez,Tevez
+Qual clube venceu a Ligue 1 em 2021?:Lille
+Quem foi o campeão da Copa América em 2015?:Chile
+Qual país venceu a Copa do Mundo de 1994?:Brasil
+Qual jogador ganhou a Bola de Ouro em 1998?:Zinedine Zidane,Zidane
+Qual clube venceu a La Liga em 2021?:Atlético de Madrid,Atlético
+Quem é o maior artilheiro da história da Seleção Brasileira?:Pelé
+Qual país venceu a Copa do Mundo de 2002?:Brasil
+Qual jogador é conhecido como 'El Pipita'?:Gonzalo Higuaín,Higuaín
+Quem foi o campeão da Copa do Mundo de 1962?:Brasil
+Qual país venceu a Eurocopa de 1988?:Holanda
+Qual jogador é conhecido como 'El Burrito'?:Ariel Ortega,Ortega
+Qual clube venceu a Primeira Liga em 2021?:Sporting CP,Sporting
+Quem foi o campeão da Copa do Mundo de 1998?:França
+Qual jogador ganhou a Bola de Ouro em 2002?:Ronaldo Nazário,Ronaldo
+Qual país venceu a Copa do Mundo de 1982?:Itália
+Quem foi o campeão da Liga dos Campeões da UEFA em 2005?:Liverpool
+Qual jogador é conhecido como 'El Loco'?:Marcelo Bielsa,Bielsa
+Qual clube venceu a Copa do Brasil em 2021?:Atlético Mineiro,Atlético
+Quem é o maior artilheiro da história da Seleção Argentina?:Lionel Messi,Messi,Leo Messi
+Qual país venceu a Copa do Mundo de 1938?:Itália
+Quem foi o campeão da Copa do Mundo de 1934?:Itália
+Qual jogador é conhecido como 'El Brujo'?:Juan Mata,Mata
+Qual clube venceu a Bundesliga em 2021?:Bayern de Munique,Bayern
+Qual país venceu a Copa do Mundo de 1930?:Uruguai
+Qual jogador é conhecido como 'El Diablo'?:Edgar Davids,Davids
+Quem foi o campeão da Copa do Mundo de 2010?:Espanha
+Qual clube venceu a Copa da Itália em 2021?:Juventus
+Qual jogador ganhou a Bola de Ouro em 2009?:Lionel Messi,Messi,Leo Messi
+Qual país venceu a Eurocopa de 2000?:França
+Qual jogador é conhecido como 'El Payaso'?:Pablo Aimar,Aimar
+Qual clube venceu a Premier League em 2019?:Manchester City,City
+Quem foi o campeão da Copa Libertadores em 2017?:Grêmio
+Qual jogador é conhecido como 'El Pibe de Oro'?:Diego Maradona,Maradona
+Qual país venceu a Copa do Mundo de 1962?:Brasil
+Quem ganhou a Bola de Ouro em 2008?:Cristiano Ronaldo,CR7,Cr7
+Qual clube venceu a Supercopa da UEFA em 2020?:Bayern de Munique,Bayern
+Qual jogador é conhecido como 'El Tren'?:Adriano,Adriano Leite Ribeiro
+Qual país venceu a Copa América em 2007?:Brasil
+Quem foi o campeão da Copa Libertadores em 2013?:Atlético Mineiro,Atlético
+Qual jogador é conhecido como 'El Pitbull'?:Gary Medel,Medel
+Qual clube venceu a La Liga em 2020?:Real Madrid
+Quem ganhou a Bola de Ouro em 1997?:Ronaldo Nazário,Ronaldo
+Qual país venceu a Copa do Mundo de 2006?:Itália
+Qual jogador é conhecido como 'El Turco'?:Omar Sivori,Sivori
+Qual clube venceu a Premier League em 2018?:Manchester City,City
+Quem foi o campeão da Copa Libertadores em 2012?:Corinthians
+Qual jogador é conhecido como 'El Fantástico'?:Alexandre Pato,Pato
+Qual país venceu a Copa do Mundo de 1982?:Itália
+Quem ganhou a Bola de Ouro em 2006?:Fabio Cannavaro,Cannavaro
+Qual clube venceu a Bundesliga em 2020?:Bayern de Munique,Bayern
+Qual jogador é conhecido como 'El Mudo'?:Ever Banega,Banega
+Qual país venceu a Copa América em 2004?:Brasil
+Quem foi o campeão da Copa Libertadores em 2011?:Santos
+Qual jogador é conhecido como 'El Conejo'?:Javier Saviola,Saviola
+Qual clube venceu a Serie A em 2020?:Juventus
+Quem ganhou a Bola de Ouro em 2001?:Michael Owen,Owen
+Qual país venceu a Eurocopa de 2016?:Portugal
+Qual jogador é conhecido como 'El Poeta'?:Joaquín,Joaquín Sánchez
+Qual clube venceu a Ligue 1 em 2020?:Paris Saint-Germain,PSG
+Quem foi o campeão da Copa Libertadores em 2010?:Internacional
+Qual jogador é conhecido como 'El Guaje'?:David Villa,Villa
+Qual país ganhou a última Copa do Mundo Feminina?:Espanha  
+Quem é o maior artilheiro da história da Liga dos Campeões da UEFA?:Cristiano Ronaldo,CR7  
+Qual time venceu a Premier League em 2015-16?:Leicester City  
+Quem é conhecido como o 'Rei do Futebol'?:Pelé  
+Qual clube venceu a Liga dos Campeões da UEFA em 2023?:Manchester City,City  
+Quem foi o campeão da Copa do Mundo de 2022?:Argentina  
+Qual jogador ganhou a Bola de Ouro em 2021?:Lionel Messi,Messi,Leo Messi  
+Qual país sediou a Copa do Mundo de 2022?:Catar  
+Quem foi o artilheiro da Premier League na temporada 2022/2023?:Erling Haaland,Haaland  
+Qual clube tem mais títulos do Mundial de Clubes?:Real Madrid  
+Quem é conhecido como o 'Fenômeno' do futebol?:Ronaldo  
+Qual jogador é famoso por sua 'cavadinha' em pênaltis?:Panenka  
+Qual time é conhecido como 'Os Gunners'?:Arsenal  
+Quem foi o técnico do Chelsea que ganhou a Liga dos Campeões em 2021?:Thomas Tuchel  
+Qual jogador brasileiro é conhecido como 'Neymar Jr.'?:Neymar  
+Quem é o maior artilheiro da história da seleção brasileira?:Pelé  
+Qual time é conhecido como 'Os Merengues'?:Real Madrid  
+Quem foi o vencedor da Bola de Ouro em 2023?:Lionel Messi,Messi,Leo Messi  
+Qual seleção venceu a Eurocopa de 2020?:Itália  
+Quem é o goleiro mais famoso da história do Manchester United?:Peter Schmeichel  
+Qual jogador é conhecido como 'O Mago'?:Ronaldinho  
+Qual clube tem a maior torcida do Brasil?:Flamengo  
+Quem foi o técnico da seleção brasileira na Copa do Mundo de 2002?:Luiz Felipe Scolari  
+Qual jogador é conhecido como 'O Fenômeno' e jogou pelo Barcelona e Real Madrid?:Ronaldo  
+Quem ganhou a Copa América em 2021?:Argentina  
+Qual time é conhecido como 'Os Blues'?:Chelsea  
+Quem é o maior artilheiro da história da Premier League?:Alan Shearer  
+Qual clube venceu a Liga dos Campeões em 1999?:Manchester United  
+Quem é o jogador mais caro da história do futebol?:Neymar  
+Qual seleção ganhou a Copa do Mundo de 2014?:Alemanha  
+Quem foi o artilheiro da Copa do Mundo de 2018?:Harry Kane  
+Qual jogador é conhecido como 'O Rei do Drible'?:Garrincha  
+Qual clube tem mais títulos da Liga dos Campeões?:Real Madrid  
+Quem foi o técnico do Barcelona durante o período de maior sucesso na década de 2010?:Pep Guardiola  
+Qual jogador argentino é conhecido como 'La Pulga'?:Lionel Messi  
+Quem foi o vencedor da Eurocopa de 2016?:Portugal  
+Qual time é conhecido como 'Os Nerazzurri'?:Inter de Milão  
+Quem é o goleiro da seleção brasileira que se destacou na Copa do Mundo de 1994?:Taffarel  
+Qual jogador tem mais títulos da Liga dos Campeões?:Cristiano Ronaldo,CR7  
+Quem foi o artilheiro do Campeonato Brasileiro em 2020?:Thiago Galhardo  
+Qual seleção é conhecida como 'Os Leões de Atlas'?:Marrocos  
+Quem é o jogador mais jovem a marcar em uma Copa do Mundo?:Pelé  
+Qual time é conhecido como 'Os Rossoneri'?:AC Milan  
+Quem foi o vencedor da Copa do Mundo de 1998?:França  
+Qual jogador brasileiro é conhecido como 'O Rei'?:Pelé  
+Quem é o maior artilheiro da história do Barcelona?:Lionel Messi  
+Qual clube venceu a Premier League em 2021-22?:Manchester City,City  
+Quem foi o técnico da seleção italiana na Copa do Mundo de 2006?:Marcello Lippi  
+Qual jogador é conhecido como 'A Máquina'?:Zico  
+Quem ganhou a Copa do Mundo de 1970?:Brasil  
+Qual seleção tem mais títulos da Copa do Mundo?:Brasil  
+Quem foi o artilheiro da Liga dos Campeões em 2021-22?:Karim Benzema  
+Qual time é conhecido como 'Os Diabos Vermelhos'?:Manchester United  
+Quem é o jogador mais velho a participar de uma Copa do Mundo?:Essam El-Hadary  
+Qual clube tem mais títulos do Campeonato Brasileiro?:Palmeiras  
+Quem foi o vencedor da Eurocopa de 1988?:Países Baixos  
+Qual jogador é conhecido como 'O Pequeno Príncipe'?:Ronaldinho  
+Quem foi o artilheiro da Copa do Mundo de 2014?:James Rodríguez  
+Qual seleção venceu a Copa do Mundo de 1966?:Inglaterra
+Quem é o jogador com mais jogos pela seleção brasileira?:Cafu  
+Qual time é conhecido como 'Os Canarinhos'?:Seleção Brasileira  
+Quem ganhou a Copa do Mundo de 1982?:Itália  
+Qual jogador é conhecido como 'O Maestro'?:Zico  
+Quem foi o artilheiro da Premier League em 2018-19?:Pierre-Emerick Aubameyang  
+Qual seleção venceu a Copa América em 2019?:Brasil  
+Quem é o goleiro mais famoso da história do Barcelona?:Víctor Valdés  
+Qual time é conhecido como 'Os Magpies'?:Newcastle United  
+Quem foi o vencedor da Eurocopa de 2000?:França  
+Qual jogador é conhecido como 'O Rei do Gol'?:Pelé  
+Quem é o maior artilheiro da história do Milan?:Andriy Shevchenko  
+Qual clube venceu a Liga dos Campeões em 2005?:Liverpool  
+Quem foi o artilheiro da Copa do Mundo de 1994?:Romário  
+Qual seleção venceu a Copa do Mundo de 1974?:Alemanha Ocidental  
+Quem é conhecido como 'O Mago do Futebol'?:Ronaldinho  
+Qual time é conhecido como 'Os Auri-Negros'?:Botafogo  
+Quem foi o vencedor da Eurocopa de 2012?:Espanha  
+Qual jogador é conhecido como 'O Fera'?:Ronaldo  
+Quem é o maior artilheiro da história da Bundesliga?:Gerd Müller  
+Qual clube é conhecido como 'Os Dragões'?:FC Porto  
+Quem ganhou a Copa do Mundo de 2010?:Espanha  
+Qual jogador é conhecido como 'O Matador'?:Luis Suárez  
+Quem foi o artilheiro da Copa do Mundo de 1986?:Gary Lineker  
+Qual seleção ganhou a Copa do Mundo de 1958?:Brasil  
+Quem é o jogador com mais títulos de Liga dos Campeões?:Cristiano Ronaldo,CR7  
+Qual time é conhecido como 'Os Lobos'?:Wolverhampton Wanderers  
+Quem foi o vencedor da Eurocopa de 2004?:Grécia  
+Qual jogador é conhecido como 'O Incrível'?:Ronaldinho  
+Quem foi o artilheiro da Premier League em 2019-20?:Jamie Vardy  
+Qual seleção venceu a Copa América em 2015?:Chile  
+Quem é o goleiro da seleção brasileira conhecido por suas defesas incríveis?:Alisson  
+Qual clube tem mais títulos do Campeonato Inglês?:Manchester United  
+Quem foi o vencedor da Eurocopa de 1996?:Alemanha  
+Qual jogador é conhecido como 'O Rei do Futebol Brasileiro'?:Pelé  
+Quem foi o artilheiro da Copa do Mundo de 1990?:Salvatore Schillaci  
+Qual seleção ganhou a Copa do Mundo de 1962?:Brasil  
+Quem é o jogador mais jovem a jogar em uma Copa do Mundo?:Pelé  
+Qual time é conhecido como 'Os Cidadãos'?:Manchester City,City  
+Quem foi o vencedor da Eurocopa de 2008?:Espanha  
+Qual jogador é conhecido como 'O Homem de Gelo'?:Manuel Neuer  
+Quem é o maior artilheiro da história do Chelsea?:Frank Lampard  
+Qual clube venceu a Liga dos Campeões em 2010?:Inter de Milão  
+Quem foi o artilheiro da Copa do Mundo de 1978?:Mario Kempes  
+Qual seleção venceu a Copa do Mundo de 1994?:Brasil  
+Quem é o jogador com mais gols em Copas do Mundo?:Miroslav Klose  
+Qual time é conhecido como 'Os Rojiblancos'?:Atlético de Madrid  
+Quem foi o vencedor da Eurocopa de 1996?:Alemanha  
